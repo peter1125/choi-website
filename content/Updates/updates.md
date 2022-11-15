@@ -35,7 +35,6 @@ item:
     description:  "[Natural Language Processing in theContext of Qualitative Research](/posts/ASA_2022_CHOI.pdf)"
 
 
-item:
   - organization:  "Virtual Presentation"
     organization_url:  ""
     title:  "Academic Analytics Webinar"
@@ -45,7 +44,7 @@ item:
     date_end:  ""
     description:  "[Race and Gender Disparities in Academic Pay](/posts/AA_Presentation_092321.pdf)"
 
-item:
+
   - organization:  "Virtual Presentation"
     organization_url:  ""
     title:  "PAA 2021"
@@ -56,7 +55,7 @@ item:
     description:  "[Race and Gender Disparities in Academic Pay](/posts/PAA2021_poster.pdf) - Poster Award (P3)"
   
 
-item:
+
   - organization:  "The Carpentries"
     organization_url:  "https://carpentries.org/"
     title:  "The Carpentries Instructor Training Workshop"
@@ -66,7 +65,7 @@ item:
     date_end:  ""
     description:  ""
 
-item:
+
   - organization:  "Virtual Workshop"
     organization_url:  ""
     title:  "Revision of the 2016 WHO Verbal Autopsy Instrument - Final Phase"
@@ -76,7 +75,7 @@ item:
     date_end:  ""
     description:  ""
 
-item:
+
   - organization:  "Virtual Workshop"
     organization_url:  ""
     title:  "WHO 2016 Verbal Autopsy Instrument Item Reduction Training Workshop"
@@ -86,7 +85,7 @@ item:
     date_end:  ""
     description:  ""
 
-item:
+
   - organization:  "Virtual Presentation"
     organization_url:  ""
     title:  "14th Annual OSU/BGSU Graduate Student Conference"
@@ -96,7 +95,7 @@ item:
     date_end:  ""
     description:  "[Race and Gender Disparities in Academic Pay](/Posts/osu_bgsu_CHOI&AXXE.pdf)"
 
-item:
+
   - organization:  "Virtual Presentation"
     organization_url:  ""
     title:  "ALAPP 2020"
@@ -106,9 +105,9 @@ item:
     date_end:  ""
     description:  "Translation Strategies in Verbal Autopsy Research"
 
-item:
+
   - organization:  "Virtual Presentation"
-  `organization_url:  ""
+    organization_url:  ""
     title:  "ASA 2020"
     url:  "https://convention2.allacademic.com/one/asa/asa20/index.php?cmd: Online+Program+View+Session&selected_session_id: 1657547&PHPSESSID: bampcibuk6jho2aa839c3687pa"
     certificate_url:  ""
@@ -116,7 +115,7 @@ item:
     date_end:  ""
     description:  "[Behind the Cyber Curtain: Discrimination within `Airbnb’s Open-Rating System](/posts/ASA2020_AXXE_CHOI_Final.pdf)"
 
-item:
+
   - organization:  "Virtual Workshop"
     organization_url:  ""
     title:  "Response pattern analysis for the revision of the 2016 WHO Verbal Autopsy instrument"
@@ -126,7 +125,7 @@ item:
     date_end:  ""
     description:  ""
 
-item:
+
   - organization:  "Virtual Workshop"
     organization_url:  ""
     title:  "South Africa openVA Training workshop"
@@ -136,7 +135,7 @@ item:
     date_end:  ""
     description:  ""
 
-item:
+
   - organization:  "Cancelled Due to COVID-19"
     organization_url:  ""
     title:  "PAA 2020"
@@ -146,7 +145,7 @@ item:
     date_end:  ""
     description:  "[A Flaw of the Open-Rating System: Discrimination within AirBnb’s User-Based Ratings](https://events.rdmobile.com/Lists/Details/1015286)"
 
-item:
+
   - organization:  "Virtual Presentation"
     organization_url:  ""
     title:  "socPIE"
@@ -157,7 +156,7 @@ item:
     description:  "Behind the Cyber Curtain: Discrimination Within Airbnb's Open-Rating System"
 
 
-item:
+
   - organization:  "São Paulo, Brazil"
     organization_url:  ""
     title:  "Universidade de São Paulo - Medicina"
@@ -167,7 +166,7 @@ item:
     date_end:  ""
     description:  ""
 
-item:
+
   - organization:  "Columbus, OH"
     organization_url:  ""
     title:  "TDAI Fall Forum"
@@ -177,7 +176,7 @@ item:
     date_end:  ""
     description:  "[Verbal Autopsy and OpenVA](/posts/poster_tdai.pdf)"
 
-item:
+
   - organization:  "Dhaka, Bangladesh"
     organization_url:  ""
     title:  "Verbal Autopsy Workshop"
@@ -187,7 +186,7 @@ item:
     date_end:  ""
     description:  ""
 
-item:
+
   - organization:  "Mtubatuba, South Africa"
     organization_url:  ""
     title:  "Africa Health Research Institute"
@@ -197,7 +196,7 @@ item:
     date_end:  ""
     description:  ""
 
-item:
+
   - organization:  "Newyork, NY"
     organization_url:  ""
     title:  "ASA 2019"
@@ -207,7 +206,7 @@ item:
     date_end:  ""
     description:  "[Access to Transportation: Bus Network and Spatial Inequality in Columbus](/posts/asa_081019_Choi.html)"
 
-item:
+
   - organization:  "Chicago, IL"
     organization_url:  ""
     title:  "SICSS 2019"
@@ -217,7 +216,7 @@ item:
     date_end:  ""
     description:  ""
 
-item:
+
   - organization:  "Austin, Texas"
     organization_url:  ""
     title:  "PAA 2019"
@@ -227,7 +226,7 @@ item:
     date_end:  ""
     description:  ""
 
-item:
+
   - organization:  "Honiara, Solomon Islands"
     organization_url:  ""
     title:  "openVA Pipeline Development and Implementation"
@@ -237,7 +236,7 @@ item:
     date_end:  ""
     description:  ""
 
-item:
+
   - organization:  "Basel, Switzerland"
     organization_url:  ""
     title:  "SwissTPH"
@@ -247,7 +246,7 @@ item:
     date_end:  ""
     description:  ""
 
-item:
+
   - organization:  "Rostock, Germany"
     organization_url:  ""
     title:  "IUSSP/MPIDR Workshop on Monitoring Mortality in the Era of the SDGs"
@@ -257,7 +256,7 @@ item:
     date_end:  ""
     description:  ""
 
-item:
+
   - organization:  "New Delhi, India"
     organization_url:  ""
     title:  "VA Algorithms and CoD Assignments Country Support"
@@ -267,7 +266,7 @@ item:
     date_end:  ""
     description:  ""
 
-item:
+
   - organization:  "Dhaka, Bangladesh"
     organization_url:  ""
     title:  "OpenVA Pipeline & DHIS2 Setup Country Support"
@@ -277,7 +276,7 @@ item:
     date_end:  ""
     description:  ""
 
-item:
+
   - organization:  "Columbus, Ohio"
     organization_url:  ""
     title:  "VA Data Quality Review and COD Assignment - Training of Trainers Workshop"
@@ -287,7 +286,7 @@ item:
     date_end:  ""
     description:  ""
 
-item:
+
   - organization:  "Berkley, California"
     organization_url:  ""
     title:  "Annual Workshop on Formal Demography"
@@ -297,7 +296,7 @@ item:
     date_end:  ""
     description:  ""
 
-item:
+
   - organization:  "Singapore"
     organization_url:  ""
     title:  "OpenVA Pipeline Implementers’ and Developers’ Meeting"
@@ -307,7 +306,7 @@ item:
     date_end:  ""
     description:  ""
 
-item:
+
   - organization:  "Denver, Colorado"
     organization_url:  ""
     title:  "PAA 2018/Workshop on Demographic Research in the Digital Age"
@@ -316,7 +315,7 @@ item:
     date_start:  "2018-04-01"
     date_end:  ""
     description:  ""
-
+    
 design:
   columns: '1'
 ---
