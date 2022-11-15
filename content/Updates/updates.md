@@ -25,14 +25,14 @@ date_format: Jan 2006
 
 
 item:
-  - organization:  "Los Angelas, CA"
-    organization_url:  ""
-    title:  "ASA 2022"
-    url:  ""
-    certificate_url:  ""
-    date_start:  "2022-08-07"
-    date_end:  ""
-    description:  "[Natural Language Processing in theContext of Qualitative Research](/posts/ASA_2022_CHOI.pdf)"
+  - organization:  'Los Angelas, CA'
+    organization_url:  ''
+    title:  'ASA 2022'
+    url:  ''
+    certificate_url:  ''
+    date_start:  '2022-08-07'
+    date_end:  ''
+    description:  '[Natural Language Processing in theContext of Qualitative Research](/posts/ASA_2022_CHOI.pdf)'
 design:
   columns: '1'
 ---
