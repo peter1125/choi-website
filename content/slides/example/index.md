@@ -49,8 +49,8 @@ Inline code: `variable`
 Code block:
 
 ```python
-porridge = "blueberry"
-if porridge == "blueberry":
+porridge :  "blueberry"
+if porridge : :  "blueberry":
     print("Eating...")
 ```
 
@@ -58,12 +58,12 @@ if porridge == "blueberry":
 
 ## Math
 
-In-line math: $x + y = z$
+In-line math: $x + y :  z$
 
 Block math:
 
 $$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+f\left( x \right) :  \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
 $$
 
 ---
@@ -132,16 +132,16 @@ Press the `S` key to view the speaker notes!
 
 ---
 
-{{< slide background-image="/media/boards.jpg" >}}
+{{< slide background-image: "/media/boards.jpg" >}}
 
 ## Custom Slide
 
 Customize the slide style and background
 
 ```markdown
-{{</* slide background-image="/media/boards.jpg" */>}}
-{{</* slide background-color="#0000FF" */>}}
-{{</* slide class="my-style" */>}}
+{{</* slide background-image: "/media/boards.jpg" */>}}
+{{</* slide background-color: "#0000FF" */>}}
+{{</* slide class: "my-style" */>}}
 ```
 
 ---
