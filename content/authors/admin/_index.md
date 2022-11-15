@@ -15,7 +15,7 @@ role: Ph.D Cadidate, Sociology
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: The Ohio State University
-    url: "https://sociology.osu.edu/ "
+    url: "https://sociology.osu.edu/"
 
 
 # Short bio (displayed in user profile at end of posts)
