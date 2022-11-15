@@ -1,6 +1,13 @@
 ---
+# An instance of the Accomplishments widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
-headless: true  # This file represents a page section.
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 50
 
 # Put Your Section Options Here (title, background, etc.) ...
 title: Updates
@@ -12,11 +19,10 @@ weight: 10 # The position of section on page
 date_format: Jan 2006
 
 # Accomplishments.
-#   Add/remove as many `[[item]]` blocks below as you like.
+#   Add/remove as many `item` blocks below as you like.
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
-
+#   Begin/end multi-line descriptions with `>-`.
 
 item:
   organization :  "Los Angelas, CA"
@@ -310,5 +316,8 @@ item:
   date_start :  "2018-04-01"
   date_end :  ""
   description :  ""
+
+design:
+  columns: '2'
 
 ---
