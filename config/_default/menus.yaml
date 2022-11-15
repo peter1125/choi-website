@@ -16,7 +16,7 @@ main:
   - name: Publications
     url: '#featured'
     weight: 50
- - name: CV
+  - name: CV
     url: 'uploads/cv.pdf'
     weight: 60
   - name: Contact
