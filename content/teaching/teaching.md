@@ -1,16 +1,18 @@
 ---
-# An instance of the Pages widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
-
-# This file represents a page section.
 headless: true
 
+
 # Order that this section appears on the page.
-weight: 70
+weight: 10
 
 title: 'Teaching'
 subtitle: "For any inquiries on presentations or guest lectures please e-mail me at choi.1443@osu.edu."
+
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
+
 ---
 
 ### Soc 2367: Urban Social Problems
